@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-    py-git-log-analyzer
+    py_git_log_analyzer
     ~~~~~~~~~~~~~~~
     description
 """
