@@ -1,0 +1,6 @@
+click
+GitPython
+pandas
+matplotlib
+seaborn
+tabulate
