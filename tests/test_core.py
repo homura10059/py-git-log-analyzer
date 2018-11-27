@@ -1,4 +1,4 @@
-from py_git_log_analyzer.core import list_from, data_flame_from, data_flame_under
+from py_git_log_analyzer.pure_git import list_from, data_flame_from, data_flame_under
 
 """
 pytest 用のテストコード
