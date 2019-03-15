@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-メインロジック
+pure な git log 解析用
 """
 import git
 import re
