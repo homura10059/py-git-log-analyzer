@@ -1,6 +1,8 @@
+gitlab
 click
 GitPython
 pandas
 matplotlib
 seaborn
 tabulate
+python-gitlab
