@@ -107,4 +107,12 @@ venv.bak/
 
 sandbox/
 
-data/
+data/git-lab/commits/*
+!\.gitkeep
+
+data/git-lab/mr-comments/*
+!\.gitkeep
+
+data/git-lab/summary/*
+!\.gitkeep
+
